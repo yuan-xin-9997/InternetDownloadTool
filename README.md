@@ -6,11 +6,12 @@
 
 - [下载安装包](https://github.com/yuan-xin-9997/InternetDownloadTool/releases)
 - [商店](https://internetdownloadtool.yuan-xin.top/)
+- [界面预览](https://internetdownloadtool.yuan-xin.top/#screenshots)
 - 技术支持：support@yuan-xin.top
 
-解压后运行桌面应用，在「授权 → 购买／激活」复制机器码。付款后用机器码领取激活码，粘贴回应用即可离线激活。命令行可用 IDT CLI 的 `--machine-code` 查看机器码，使用 `--activate` 从标准输入导入激活码。
+解压后运行桌面应用，在左侧「授权与购买」复制机器码。付款后用机器码领取激活码，粘贴回应用即可离线激活。命令行可用 IDT CLI 的 `--machine-code` 查看机器码，使用 `--activate` 从标准输入导入激活码。
 
-暂停后，用相同链接、保存位置和来源网址继续。HTTP 续传需要服务器支持分段请求，且能够确认远程文件版本。浏览器接管请先在应用的「浏览器」菜单连接，再把发布包内的 browser 目录加载为 Chrome 或 Edge 扩展。
+点击右上角「新建任务」，粘贴下载链接或磁力链接、选择保存位置即可开始。暂停后点击任务卡片上的「暂停」，再次点击「继续」即可从断点恢复。HTTP 续传需要服务器支持分段请求，且能够确认远程文件版本。浏览器接管请点击左侧「浏览器接管」，再把发布包内的 browser 目录加载为 Chrome 或 Edge 扩展。
 
 更新：付款包含自付款日起一年内发布的版本更新。更晚发布的版本不在免费更新范围内，但已获得授权的版本可以永久离线使用。若软件提示当前版本晚于更新期，请在 [Releases](https://github.com/yuan-xin-9997/InternetDownloadTool/releases) 页选择发布日期在一年更新期内的版本下载安装，激活码继续有效。
 
